@@ -2,6 +2,7 @@
 
 A powerful WhatsApp bot that manages Google Drive files through simple text commands. Built with n8n workflow automation, featuring AI-powered document summarization and comprehensive audit logging.
 
+Video Demo : https://www.loom.com/share/fbe87f02689447e198f0b536907eaf07?sid=64c598ee-e04c-402c-9825-e4dc5511630c
 
 ## 🏆 **Implementation Status**
 
